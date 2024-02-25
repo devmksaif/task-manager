@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Task-Manager",
+    "slug": "Task-Manager",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
