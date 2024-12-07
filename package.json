@@ -9,13 +9,49 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@backpackapp-io/react-native-toast": "^0.10.0",
+    "@fluentui/react": "^8.115.6",
+    "@fluentui/react-components": "^9.46.7",
+    "@fluentui/web-components": "^2.5.16",
+    "@gluestack-style/react": "^1.0.48",
+    "@gluestack-ui/themed": "^1.1.9",
+    "@react-navigation/bottom-tabs": "^6.5.14",
+    "@react-navigation/native": "^6.1.14",
+    "@react-navigation/stack": "^6.3.25",
+    "@tamagui/config": "^1.90.15",
+    "@types/react": "~18.2.45",
     "expo": "~50.0.7",
     "expo-status-bar": "~1.11.1",
+    "global": "^4.4.0",
+    "is-arrayish": "^0.3.2",
     "react": "18.2.0",
-    "react-native": "0.73.4"
+    "react-native": "^0.73.5",
+    "react-native-alert-notification": "^0.4.0",
+    "react-native-animatable": "^1.4.0",
+    "react-native-gesture-handler": "^2.15.0",
+    "react-native-modal": "^13.0.1",
+    "react-native-responsive-fontsize": "^0.5.1",
+    "react-native-safe-area-context": "^4.9.0",
+    "react-native-simple-toast": "^3.3.0",
+    "react-native-svg": "^13.4.0",
+    "react-native-tailwindcss": "^1.1.11",
+    "react-native-toast-message": "^2.2.0",
+    "react-navigation": "^5.0.0",
+    "tailwind-rn": "^4.2.0",
+    "tamagui": "^1.90.15",
+    "toastify-react-native": "^5.0.0",
+    "typescript": "^5.3.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.20.0"
+    "@babel/core": "^7.20.0",
+    "@typescript-eslint/eslint-plugin": "^7.1.0",
+    "@typescript-eslint/parser": "^7.1.0",
+    "eslint": "^8.57.0",
+    "eslint-plugin-react": "^7.33.2",
+    "eslint-plugin-unused-imports": "^3.1.0",
+    "nativewind": "^2.0.11",
+    "tailwindcss": "^3.4.1",
+    "twrnc": "^4.0.1"
   },
   "private": true
 }
